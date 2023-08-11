@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [instagram.com\aryantricks](instagram.com\aryantricks)
 
-- 📫 How to reach me **instagram.com\aryantricks**
+- 📫 How to reach me **visit 1amaryan or aryantricks on instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
