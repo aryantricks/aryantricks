@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">An Interested code developer from India</h3>
 
-- 🔭 I’m currently working on [My Websites](aryantricks.github.io/aryantricks)
+- 🔭 I’m currently working on [My Websites](arycodes.in)
 
 - 🌱 I’m currently learning **Android Development , Web Development**
 
